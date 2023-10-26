@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Devjobs-Web-App/static/css/main.0c87eb93.css",
+    "main.js": "/Devjobs-Web-App/static/js/main.3836ca39.js",
+    "static/media/logo.svg": "/Devjobs-Web-App/static/media/logo.8c0b644930f3fa038b452bce0d4b876d.svg",
+    "static/media/scoot.svg": "/Devjobs-Web-App/static/media/scoot.345a4bfd15e6f589d5688ea93b70ca8a.svg",
+    "static/media/pomodoro.svg": "/Devjobs-Web-App/static/media/pomodoro.a786dc9a9ad4e2ead3b242885907942b.svg",
+    "static/media/switcher.svg": "/Devjobs-Web-App/static/media/switcher.cb0988d6f5a73ec687a3a1a153b7c8fc.svg",
+    "static/media/vector.svg": "/Devjobs-Web-App/static/media/vector.d9c0112ac6f7293a78de79225060b1af.svg",
+    "static/media/crowdfund.svg": "/Devjobs-Web-App/static/media/crowdfund.1aee1724815801f6f4193a8678c67bbd.svg",
+    "static/media/pod.svg": "/Devjobs-Web-App/static/media/pod.3c73e3778043bb439ba8bf094ffa7e7d.svg",
+    "index.html": "/Devjobs-Web-App/index.html",
+    "static/media/bg-pattern-header.svg": "/Devjobs-Web-App/static/media/bg-pattern-header.f3307602ee5e7c6b4f50428cf0794a8c.svg",
+    "static/media/coffeeroasters.svg": "/Devjobs-Web-App/static/media/coffeeroasters.70ce77dac433114a8f885c8bb1fb95cf.svg",
+    "static/media/bg-pattern-mobile.svg": "/Devjobs-Web-App/static/media/bg-pattern-mobile.ea1134f14277d29c5f40360a34f4af0a.svg",
+    "static/media/typemaster.svg": "/Devjobs-Web-App/static/media/typemaster.a31ba9597141de8f1fa93c30c6001397.svg",
+    "static/media/creative.svg": "/Devjobs-Web-App/static/media/creative.af94119f448ec566344593a82f61c743.svg",
+    "static/media/mastercraft.svg": "/Devjobs-Web-App/static/media/mastercraft.a98383d02483419b73487b31457b7e69.svg",
+    "static/media/blogr.svg": "/Devjobs-Web-App/static/media/blogr.68f4bc4bb85b4aa267d0e1cb06775dc8.svg",
+    "static/media/maker.svg": "/Devjobs-Web-App/static/media/maker.b6f34b7909e60ded181acb3108eb39c3.svg",
+    "static/media/officelite.svg": "/Devjobs-Web-App/static/media/officelite.34773de614b80abc0b9a05e4e0329ff3.svg",
+    "static/media/icon-filter.svg": "/Devjobs-Web-App/static/media/icon-filter.2471816db9fac72cf5a8944825113ff8.svg",
+    "static/media/icon-location.svg": "/Devjobs-Web-App/static/media/icon-location.325ff3d99912e5505f5cf31f67518b0c.svg",
+    "static/media/icon-search.svg": "/Devjobs-Web-App/static/media/icon-search.09900c2e3c8743161876925423fc7460.svg",
+    "static/media/icon-search-mobile.svg": "/Devjobs-Web-App/static/media/icon-search-mobile.58db27b04efeec5a5e86fd5ade1aca93.svg",
+    "static/media/icon-check.svg": "/Devjobs-Web-App/static/media/icon-check.7b769ecf9d90157efbc331c220869523.svg",
+    "main.0c87eb93.css.map": "/Devjobs-Web-App/static/css/main.0c87eb93.css.map",
+    "main.3836ca39.js.map": "/Devjobs-Web-App/static/js/main.3836ca39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c87eb93.css",
+    "static/js/main.3836ca39.js"
+  ]
+}
